@@ -29,3 +29,6 @@ let isLoggedIn=false
 console.log(typeof "Rajashri");// string
 console.log(typeof undefined); // undefined
 console.log(typeof null);// object
+
+// we can also use typeof(variable) method
+
